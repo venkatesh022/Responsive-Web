@@ -1,0 +1,7 @@
+body{
+    background-color: lightslategray;
+}
+#wider_screen h2{
+    display: block;
+    color: #fff;
+}

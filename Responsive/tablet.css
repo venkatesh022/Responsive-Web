@@ -1,0 +1,8 @@
+body{
+    background-color: lightcoral;
+}
+#tablet h2{
+    /* background-color: ; */
+    color: black;
+    display: block;
+}

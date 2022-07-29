@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: thistle;
+    text-align: center;
+    padding-top: 100px;
+}
+h2{
+    display: none;
+}
+div img{
+    width:85%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+/*  //////////////////   mobile-screen  /////////////  */
+
+/* @media (max-width:500px){
+    body{
+        background-color: bisque;
+    }
+    #mobile h2{
+        display: block;
+    }
+}
+
+/* ///////////////  Tablet-screen   ////////////  */
+
+/* @media (min-width:501px) and (max-width:768px){
+    body{
+        background-color: lightcoral;
+    }
+    #tablet h2{
+        /* background-color: ; */
+        /* color: black;
+        display: block;
+    }
+} */ 
+
+/*  ///////////////  Laptop-screen  //////////// */
+/* @media (min-width:769px) and (max-width:1200px){
+    body{
+        background-color: lightgreen;
+    }
+    #laptop h2{
+        display: block;
+        color: black;
+    }
+} */
+
+/*  ////////////////  wider-screen  //////////// */
+/* @media (min-width:1201px){
+    body{
+        background-color: lightslategray;
+    }
+    #wider_screen h2{
+        display: block;
+        color: #fff;
+    }
+} */
